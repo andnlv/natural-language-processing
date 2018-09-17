@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# natural-language-processing
-=======
 # YSDA Natural Language Processing course
 * Lecture and seminar materials for each week are in ./week* folders
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
@@ -26,5 +23,3 @@ Course materials and teaching performed by
 - [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 
 
-
->>>>>>> fca4535f61fc0cb59db995e5ea3d733a5f3dfc6c
