@@ -3,7 +3,6 @@
 <<<<<<< HEAD
 =======
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
-* Telegram [chat room](https://t.me/joinchat/EF9ahRMBrVaZm0CgnZgQww) (russian).
 * YSDA homework deadlines are listed in [Anytask course page](https://anytask.org/course/384).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
@@ -31,8 +30,8 @@
 Course materials and teaching performed by
 - [Elena Voita](https://research.yandex.com/lib/people/610744) - course admin, lectures, seminars, homeworks
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
+- [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 - [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homeworks
 - [Just Heuristic](https://github.com/justheuristic) - lectures, seminars, homeworks
-- [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 
 
