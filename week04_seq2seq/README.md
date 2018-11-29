@@ -1,6 +1,6 @@
 __Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/resources/slides/nlp18_04_seq2seq_attention.pdf)__
 
-Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
+Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week04_seq2seq/practice.ipynb).
 
 #### RNN Encoder-Decoder (Vanilla):
 ![vanilla_enc_dec](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
@@ -17,7 +17,7 @@ Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nl
 * [BLEU](http://www.aclweb.org/anthology/P02-1040.pdf) and [CIDEr](https://arxiv.org/pdf/1411.5726.pdf) articles.
 * Image captioning
   * MSCOCO captioning [challenge](http://mscoco.org/dataset/#captions-challenge2015)
-  * Captioning baseline [notebook](https://github.com/yandexdataschool/HSE_deeplearning/blob/master/week7/captioning_solution_ars.ipynb)
+  * Captioning baseline [notebook](https://github.com/yandexdataschool/Practical_DL/tree/fall18/week07_seq2seq)
 * Lecture on attention mechanisms - [video](https://www.youtube.com/watch?v=_XRBlhzb31U) (RUSSIAN)
 
 ### More on Transformer
